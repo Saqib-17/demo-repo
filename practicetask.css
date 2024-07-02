@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    /* background-color:antiquewhite; */
+}
+h1{
+    margin: 10px 800px 10px 800px;
+    border-left: 5px solid  rgba(204, 27, 181, 0.755);
+    border-right: 5px solid  rgba(204, 27, 181, 0.755);
+    border-radius: 15%;
+    padding: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(68, 154, 160);
+    background-color: aliceblue;
+    padding: 10px;
+    width: 240px;
+    height: 50px;
+    box-shadow: 10px 10px 10px rgb(68, 154, 160);
+    
+}
+.hehe{
+    position: static;
+    background-image: url(/images/kiwi.jpg);
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+    border-left: 40px solid rgba(204, 27, 181, 0.755);
+    font-size:larger;
+    color:rgb(33, 103, 52) ;
+    background-size: 155%;
+    box-shadow: 10px 15px 20px rgba(203, 20, 182, 0.631);
+}
+.wow{
+    position: static;
+    background-image: url(/images/kiwi.jpg);
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+    border-left: 40px solid rgba(204, 27, 181, 0.755);
+    font-size:larger;
+    color:rgb(33, 103, 52) ;
+    background-size: 175%;
+    box-shadow: 10px 15px 20px rgba(203, 20, 182, 0.631);
+   
+}
